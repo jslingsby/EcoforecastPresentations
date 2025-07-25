@@ -215,7 +215,7 @@ ggplot(cridata, aes(ymax=ymax, ymin=ymin, xmax=4, xmin=3, fill=label)) +
 
 <br/>  
 
-![](img/survey_response_participation2025-07-23.png){width="100%"}
+![](img/survey_response_participation2025-07-25.png){width="100%"}
 
 
 Great willingness to contribute skills!!! Especially from members of other EFIs
